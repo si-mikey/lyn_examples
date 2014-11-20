@@ -1,0 +1,8 @@
+runtime: node010
+  
+
+r: node program.js ${ROCK_ARGS}
+
+t: learnyounode verify program.js
+
+v: learnyounode
